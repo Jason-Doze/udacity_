@@ -1,2 +1,0 @@
-# udacity
-Udacity JS FullStack 
