@@ -13,8 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "jasmine": "^4.2.1",
-    "jasmine-spec-reporter": "^7.0.0",
-    "node": "^18.4.0"
+    "jasmine-spec-reporter": "^7.0.0"
   },
   "devDependencies": {
     "@types/jasmine": "^4.0.3",
