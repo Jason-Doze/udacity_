@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
   }
 }
